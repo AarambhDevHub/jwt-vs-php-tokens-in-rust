@@ -31,9 +31,7 @@ Ensure you have the following installed:
 
 Navigate to the project directory and run:
 
-    ```
     cargo build
-    ```
 
 This will install the necessary dependencies specified in the Cargo.toml file.
 
@@ -47,7 +45,6 @@ run:
 
 ## Example
 
-    ```
     fn main() {
         let username = "user123";
         let user_salt = "unique_user_salt";
@@ -75,7 +72,6 @@ run:
         let is_expired_valid = validate_token(&expired_token, global_salt, user_salt);
         println!("Is the expired token valid? {}", is_expired_valid);
     }
-    ```
 
 ### License
 This project is licensed under the MIT License - see the (LICENSE)[LICENSE] file for details.
