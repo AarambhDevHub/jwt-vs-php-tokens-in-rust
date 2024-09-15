@@ -22,10 +22,8 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 
-    ```
     git clone https://github.com/AarambhDevHub/jwt-vs-php-tokens-in-rust.git
     cd jwt-vs-php-tokens-in-rust
-    ```
 
 ## Setup
 
