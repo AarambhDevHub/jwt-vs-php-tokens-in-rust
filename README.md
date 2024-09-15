@@ -74,12 +74,12 @@ run:
     }
 
 ### License
-This project is licensed under the MIT License - see the (LICENSE)[LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Support Us
 If you find this project helpful, consider supporting us with a donation. Your contributions help us continue creating valuable content.
 
-(Donate Here)[https://buymeacoffee.com/aarambhdevhub] 💖
+[Donate Here](https://buymeacoffee.com/aarambhdevhub) 💖
 
 Contact
 For any questions or feedback, please contact us through GitHub issues or the discussion section.
